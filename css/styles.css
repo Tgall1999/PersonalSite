@@ -280,3 +280,19 @@ h3{
     font-size: 1.4rem;
   }
 }
+
+@media (max-width: 400px){
+  .navbar-toggler{
+    width: 168px;
+    height: 120px;
+  }
+
+  .navbar-toggler-icon{
+    width: 90px;
+    height: 90px;
+  }
+
+  .nav-item{
+    font-size: 1.8rem;
+  }
+}
