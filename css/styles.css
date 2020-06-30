@@ -20,6 +20,13 @@ section{
 .navbar-toggler{
   position: relative;
   left: 85%;
+  width: 84px;
+  height: 60px;
+}
+
+.navbar-toggler-icon{
+  width: 45px;
+  height: 45px;
 }
 
 .nav-item{
@@ -204,16 +211,9 @@ h3{
 
 @media (max-width: 991px){
 
-  /*
   .nav-item{
     margin: 0;
-    text-align: center;
-    position: relative;
-    right: 25%;
-  }
-  */
-  .nav-item{
-    margin: 0;
+    font-size: 1.2rem;
   }
 
   .navbar-nav{
@@ -263,4 +263,20 @@ h3{
     text-align: center;
   }
 
+}
+
+@media (max-width: 600px){
+  .navbar-toggler{
+    width: 112px;
+    height: 80px;
+  }
+
+  .navbar-toggler-icon{
+    width: 60px;
+    height: 60px;
+  }
+
+  .nav-item{
+    font-size: 1.4rem;
+  }
 }
