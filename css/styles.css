@@ -14,7 +14,7 @@ section{
 
 .navbar-nav{
   position: relative;
-  left: 70%;
+  left: 60%;
 }
 
 .navbar-toggler{
@@ -30,7 +30,7 @@ section{
 }
 
 .nav-item{
-  margin: 0 20px;
+  margin: 0 15px;
 }
 
 
