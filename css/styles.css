@@ -283,16 +283,16 @@ h3{
 
 @media (max-width: 400px){
   .navbar-toggler{
-    width: 168px;
-    height: 120px;
+    width: 224px;
+    height: 160px;
   }
 
   .navbar-toggler-icon{
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
   }
 
   .nav-item{
-    font-size: 1.8rem;
+    font-size: 2rem;
   }
 }
