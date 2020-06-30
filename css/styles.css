@@ -259,6 +259,10 @@ h3{
     margin: 0 auto 5rem;
   }
 
+  .about-text{
+    font-size: 2rem;
+  }
+
   .photo-col{
     text-align: center;
   }
