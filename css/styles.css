@@ -196,12 +196,65 @@ h3{
   font-weight: 900;
   font-size: 1rem;
   text-align: center;
-  color: #204051;
   position: absolute;
   width: 50%;
   left: 25%;
   height: 2.25rem;
 }
+
+.beginner{
+  color: #f7a502;
+}
+
+.intermediate{
+  color: #f7e302;
+}
+
+.advanced{
+  color: #08992e;
+}
+
+.photo-right, .photo-left{
+  margin: 0 0 48px;
+}
+
+.exper-img{
+  width: 100%;
+  border-radius: 100%;
+}
+
+.exper-heading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  padding: 0 0 0 20px;
+}
+
+.exper-loco{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1.4rem;
+  padding: 0 0 0 20px;
+}
+
+.exper-date{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 1rem;
+  padding: 0 0 0 20px;
+}
+
+.exper-list{
+  padding: 0 0 0 40px;
+}
+
+.exper-list-item{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
+
 
 @media (max-width: 1258px){
   .about-text-col{
